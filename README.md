@@ -71,7 +71,7 @@ pcm.front cards.pcm.default
 ![screenshot](https://raw.githubusercontent.com/circinusX1/tcp_player/main/docs/scrshot.png)
 
 
-   * OpenGL server console.
+   * OpenGL server console. Shows the PID speed BPS data that goes to the pilot client.
    
 ![screenshot](https://github.com/circinusX1/reference_images/blob/master/jump3.png)
 
