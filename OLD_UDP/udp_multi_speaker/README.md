@@ -1,4 +1,4 @@
-# Multiroom speaker system 
+# Multiroom speaker system  UDP Multicast
 ### This project is left for reference.
 
  * Uses multicast UDP. Works well on wired network. Works badly on wifi clients and bad routers.
